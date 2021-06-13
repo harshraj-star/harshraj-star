@@ -10,12 +10,17 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java , React , CSS , HTML , JavaScript ...
 - 📫 How to reach me: hr45226@gmail.com ...
 -->
-![home1](https://user-images.githubusercontent.com/69207923/121796810-700c7980-cc39-11eb-90c6-f5b959f84523.png)
+![home1](https://user-images.githubusercontent.com/69207923/121796854-c4aff480-cc39-11eb-93f2-3fe41c1a5f95.png)
 
-🔭 I’m currently working on NIET-DEV Activity...
-🌱 I’m currently learning JavaScript ...
-💬 Ask me about Java , React , CSS , HTML , JavaScript ...
-📫 How to reach me: hr45226@gmail.com ...
+
+🔭 I’m currently working on NIET-DEV Activity
+
+🌱 I’m currently learning JavaScript
+
+💬 Ask me about Java , React , CSS , HTML , JavaScript
+
+📫 How to reach me: hr45226@gmail.com
+
 ![java](https://user-images.githubusercontent.com/69207923/121796728-e52b7f00-cc38-11eb-9c11-191a70f7d1f9.png)
 ![js](https://user-images.githubusercontent.com/69207923/121796753-2459d000-cc39-11eb-8c2a-86ebea689ec0.png)
 ![h](https://user-images.githubusercontent.com/69207923/121796756-26bc2a00-cc39-11eb-8a5a-9abaead6f7cc.png)
