@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java , React , CSS , HTML , JavaScript ...
 - 📫 How to reach me: hr45226@gmail.com ...
 -->
-![home1](https://user-images.githubusercontent.com/69207923/121796854-c4aff480-cc39-11eb-93f2-3fe41c1a5f95.png)
+![home1](https://user-images.githubusercontent.com/69207923/121797063-65eb7a80-cc3b-11eb-9a01-5a0a24122f23.png)
+
 
 
 🔭 I’m currently working on NIET-DEV Activity
